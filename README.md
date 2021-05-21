@@ -4,7 +4,7 @@
 Bike_Analysis
 Elizabeth Conway
 
-https://public.tableau.com/views/Bike_16213826025340/Price_Dashboard?:language=en&:display_count=y&:origin=viz_share_link
+https://public.tableau.com/views/Bike_16213826025340/Price_Story?:language=en&:display_count=y&publish=yes&:origin=viz_share_link
 
 Review utilization of bike usage from June – August 2019 against the utilization from June – August 2020 and the impact Covid had on Citi Bikes.
 
