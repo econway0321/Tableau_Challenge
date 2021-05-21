@@ -4,6 +4,8 @@
 Bike_Analysis
 Elizabeth Conway
 
+https://public.tableau.com/views/Bike_16213826025340/Price_Dashboard?:language=en&:display_count=y&:origin=viz_share_link
+
 Review utilization of bike usage from June – August 2019 against the utilization from June – August 2020 and the impact Covid had on Citi Bikes.
 
 The data was merged in excel adding columns for month and year, respectively.  In addition, a column was added to calculate the number of minutes per trip. 
